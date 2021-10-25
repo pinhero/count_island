@@ -2,6 +2,7 @@
 USAGE
 
 make
+
 ./count_island [path of your map]
 
 Test
