@@ -1,10 +1,10 @@
 # count_island
-USAGE
+*****USAGE*****
 
 make
 
 ./count_island [path of your map]
 
-Test
+*****TEST*****
 
 ./count_island file/foo.txt
